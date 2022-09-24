@@ -2,6 +2,7 @@ import React from "react";
 
 const ContentRowMovies = (props) => {
   return (
+    
     <div className="col-md-4 mb-4">
       <div className={props.color}>
         <div className="card-body">
